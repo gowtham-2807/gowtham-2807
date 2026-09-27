@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I’m Gowtham V 👋
 
-<!--
-**gowtham-2807/gowtham-2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Power BI | SQL | Quality Analytics
 
-Here are some ideas to get you started:
+I am a data professional with 3+ years of experience at Delta Electronics, specialising in KPI reporting, dashboard development and manufacturing quality analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+* Power BI, DAX and Power Query
+* SQL and Advanced Excel
+* Data cleaning and visualisation
+* KPI, RMA and quality analytics
+* Basic Python and Generative AI
+
+### 🚀 Projects
+
+* **Power BI KPI Dashboard:** Analysed multi-plant quality and revenue performance.
+* **SQL Analysis:** Analysed 56,046 sales records using joins, CTEs and window functions.
+
+### 🏆 Certifications
+
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+* Lean Six Sigma Green Belt
+
+📧 **Email:** [gowthamvaithi28@gmail.com](mailto:gowthamvaithi28@gmail.com)
+💼 **LinkedIn:** (https://www.linkedin.com/in/gowtham-v-611a84213/)
